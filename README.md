@@ -1,4 +1,6 @@
+
 ### 这是我日常遇到的一些小问题的解决办法，全部是基于Python3
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 1.[获取当前CPU状态，存储到Influxdb](https://github.com/injetlee/demo/blob/master/CpuToInfluxdb.py)
 
